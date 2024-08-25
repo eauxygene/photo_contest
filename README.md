@@ -1,39 +1,39 @@
 English below !
 
-L'objectif de ce logiciel est de permettre de créer des concours photo au sein de votre Tenant dnas un environnement Mocrosoft 365
+L'objectif de ce logiciel est de vous permettre de créer des concours photos au sein de votre Locataire dans un environnement Microsoft 365.
 
-Vous pouvez créer autant de concours que vous le souhaitez .
-L'application est multilangue en Francais, Anglais, Allemand, Espagnol, Néerladais et Brésilien
+Vous pouvez créer autant de concours que vous le souhaitez.
+L'application est multilingue en anglais, français, allemand, espagnol, néerlandais et brésilien.
 
-Les règles sont les suivante : 
+Les règles sont les suivantes : 
 
   Création de concours :
-  - Vous pouvez créer autant de concours que vous le souhaitez
+  - Vous pouvez créer autant de concours que vous le souhaitez.
   - Chaque concours a
     - un nom d'entité, un titre et une description
-    - un nombre maximum de vote par personne (dépends de la taille de votre entité)
+    - un nombre maximum de votes par personne (en fonction de la taille de votre entité)
     - une langue par défaut
-    - une date d'expiration. a cette date, l'ensemble des données (concours, images, votes) seront supprimés
-    - un code que vous devez entrer pour y accéder la première fois. Les prochains accès à l'applicaiton vous arriverez directement sur le concours choisi
+    - une date d'expiration. à cette date, toutes les données (concours, images, votes) seront supprimées
+    - un code que vous devez saisir pour accéder à l'application pour la première fois. Lors de votre prochain accès à l'application, vous accéderez directement au concours choisi.
 
 Rejoindre ou quitter un concours
-  - Vous rejoignez un concours en saississant son code qui vous sera donné par le créateur du concours
-  - Vous ne pouvez participer qu'à un seul concours à la fois. Pour rejoindre un autre concours, vous devez quitter le premier puis rejoindre le second.
-  - En quittant un coucours vous avez deux options :
-    - Conserver vos données (vos images et vos votes). si vous revenez sur ce concours ultérieurement, vous y retrouverez vos données.
-    - Supprimer toutes les données (vos images et vos votes)
-- Dans tous les cas vous pourrez revenir dans le concours en ressaissant son code.
+  - Vous rejoignez un concours en entrant son code, qui vous sera donné par le créateur du concours.
+  - Vous ne pouvez participer qu'à un seul concours à la fois. Pour participer à un autre concours, vous devez quitter le premier et rejoindre le second.
+  - Lorsque vous quittez un concours, vous avez deux possibilités :
+    - Conserver vos données (vos images et vos votes). Si vous revenez plus tard sur ce concours, vous retrouverez vos données.
+    - Effacer toutes les données (vos images et vos votes).
+- Dans les deux cas, vous pouvez revenir au concours en saisissant à nouveau son code.
 
 Participer :
-  - Charger des images:
-    - vous pouvez charger autant d'image que vous le souhaiter.
-    - vous pouvez supprimer une image que vous avez chargé. Dans ce cas tout les votes qui y sont rattaché seront libérés. 
+  - Téléchargez des images :
+    - vous pouvez télécharger autant d'images que vous le souhaitez.
+    - Vous pouvez supprimer une image que vous avez téléchargée. Dans ce cas, tous les votes qui y sont attachés seront libérés. 
 
   - Voter
-    - vous pouvez voter et dé-voter durant toute la durée du concours.
-    - le créateur du concours a choisi le nombre maximum de votes que vous pouvez apporter aux images des autres. Le nombre restant apparait sur l'écran
-    - vous ne pouvez voter qu'une fois maximum par image.
-    - vous ne pouvez pas voter pour les images que vous avez chargé.
+    - Vous pouvez voter et annuler votre vote tout au long du concours.
+    - Le créateur du concours a fixé le nombre maximum de votes que vous pouvez attribuer aux images des autres participants. Le nombre restant apparaît à l'écran.
+    - Vous ne pouvez voter qu'une seule fois par image.
+    - vous ne pouvez pas voter pour des images que vous avez téléchargées.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
