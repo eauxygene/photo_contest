@@ -11,6 +11,8 @@ Son installation initiale dans votre environnement comprends 4 étapes :
   4) Connection des objets au Sharepoint que vous avez  crée en 1
      4a) Connexion de l'application
      4b) Connexion des flux PowerAutomate
+
+
 Toutes ces étapes seront détaillées dans des vidéos à venir
 
 
@@ -64,6 +66,7 @@ Initial installation in your environment comprises 4 steps:
   4) Connect the objects to the Sharepoint you created in 1
      4a) Application connection
      4b) Connecting PowerAutomate feeds
+
 All these steps will be detailed in upcoming videos.
 
 
